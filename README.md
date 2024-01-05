@@ -1,5 +1,5 @@
-# ruby-sandox
+# ruby-cli-template
 
-Use this repository as a workspace to experiment in `irb` terminals, write Ruby codes in the editor, and save your notes to GitHub by committing and pushing.
+Use this repository as a template for your Ruby CLI (command line interface) project.
 
 - Ruby version: `3.2.1`
